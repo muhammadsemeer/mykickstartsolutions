@@ -1,0 +1,14 @@
+{
+  "name": "kickstart",
+  "version": "1.0.0",
+  "description": "My Solutions for google kickstart competitions",
+  "main": "Template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhamamd Semeer A",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
